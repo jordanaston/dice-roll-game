@@ -11,7 +11,7 @@ body {
 
 .App {
   text-align: center;
-  border: 2px solid #3c9a75;
+  border: 2px solid #138492;
   padding: 30px;
   max-width: 600px;
   margin: auto;
@@ -43,7 +43,7 @@ img {
 }
 
 button {
-  background: #3c9a75;
+  background: #138492;
   font-family: "Roboto", sans-serif;
   border-radius: 7px;
   color: #ffff;
@@ -64,19 +64,19 @@ h1 {
   margin: 30px;
   font-family: "Montserrat", sans-serif;
   font-size: 3.5rem;
-  color: #3c9a75;
+  color: #138492;
   text-align: center;
 }
 
 p {
   font-size: 2rem;
-  color: #3c9a75;
+  color: #138492;
   font-family: "Roboto", sans-serif;
 }
 
 h2 {
   font-size: 3rem;
-  color: #3c9a75;
+  color: #138492;
   font-family: "Roboto", sans-serif;
   margin-top: 50px;
 }
